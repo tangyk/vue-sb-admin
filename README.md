@@ -1,4 +1,5 @@
 # admin_frontend
+Vue edition of [SB Admin](https://startbootstrap.com/template/sb-admin/)
 
 ## Project setup
 ```
